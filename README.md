@@ -1,4 +1,4 @@
-# webcommunityukie.github.io
+# my pwa
 
 Icon adapted from https://thenounproject.com/term/global-community/986374/
 
