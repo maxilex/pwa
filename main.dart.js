@@ -34533,15 +34533,15 @@ s[1]=s[1]+t[1]
 s[2]=s[2]+t[2]
 s[3]=s[3]+t[3]}}
 F.tw.prototype={
-M:function(a){return new S.mF(new F.mU("Flutter Demo Home Page",null),"Flutter Demo",X.Qp(null,C.um),null)}}
+M:function(a){return new S.mF(new F.mU("\u041c\u043e\u0439 \u0430\u043a\u0442\u0438\u0432",null),"Flutter Demo",X.Qp(null,C.um),null)}}
 F.mU.prototype={
 aK:function(){return new F.p4(C.o)}}
 F.p4.prototype={
 BD:function(){this.aN(new F.JX(this))},
 M:function(a){var t=null,s=L.Hj(this.a.c,t)
-return new M.nB(new E.le(s,new P.ak(1/0,56),t),new T.hu(C.ae,t,t,T.TV(H.b([L.Hj("You have pushed the button this many times:",t),L.Hj(""+this.d,K.b5(a).T.d)],u.E),C.nM),t),E.Pn(L.Pu(C.t5),!1,this.gBC(),"Increment"),t)}}
+return new M.nB(new E.le(s,new P.ak(1/0,56),t),new T.hu(C.ae,t,t,T.TV(H.b([L.Hj("\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f!",t),L.Hj(""+this.d,K.b5(a).T.d)],u.E),C.nM),t),E.Pn(L.Pu(C.t5),!1,this.gBC(),"\u041c\u0435\u043d\u044e"),t)}}
 F.JX.prototype={
-$0:function(){++this.a.d},
+$0:function(){this.a.d+=5},
 $S:0};(function aliases(){var t=H.yp.prototype
 t.xX=t.a4
 t.y3=t.bI
@@ -35920,7 +35920,7 @@ C.bc=new T.rR("HeroFlightDirection.pop")
 C.n6=new E.m9("HitTestBehavior.deferToChild")
 C.bd=new E.m9("HitTestBehavior.opaque")
 C.jv=new E.m9("HitTestBehavior.translucent")
-C.t5=new X.fA(57669,!1)
+C.t5=new X.fA(58819,!1)
 C.t6=new X.fA(58820,!0)
 C.t8=new X.fA(58848,!0)
 C.w=new P.E(3707764736)
