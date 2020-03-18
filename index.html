@@ -27,6 +27,18 @@
         navigator.serviceWorker.register('flutter_service_worker.js');
       });
     }
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyDhFil4nCUTe2tbekbU3EcBPSGG3u_jbwY",
+      authDomain: "maxilex-push.firebaseapp.com",
+      databaseURL: "https://maxilex-push.firebaseio.com",
+      projectId: "maxilex-push",
+      storageBucket: "maxilex-push.appspot.com",
+      messagingSenderId: "562339649853",
+      appId: "1:562339649853:web:e398cb387185373f82cd54"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
   </script>
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
